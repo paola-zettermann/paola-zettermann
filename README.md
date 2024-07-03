@@ -1,6 +1,7 @@
 # Oie! Bem-vinda(o) ao meu Github ✨
 * 🖥️ Técnica em informática pelo IFRS
 * 🧬 Graduanda em Informática Biomédica pela UFCSPA
+* 💻 Estagiária QA no Instituto de Pesquisas Eldorado 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
