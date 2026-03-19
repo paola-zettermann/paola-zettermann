@@ -1,8 +1,8 @@
 # Oie! Bem-vinda(o) ao meu Github ✨
+* 💻 Analista de Testes no Instituto de Pesquisas Eldorado 
 * 🖥️ Técnica em informática pelo IFRS
 * 🧬 Graduanda em Informática Biomédica pela UFCSPA
-* 💻 Estagiária QA no Instituto de Pesquisas Eldorado 
-
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
